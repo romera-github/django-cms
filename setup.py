@@ -40,7 +40,7 @@ setup(
         'Pillow==1.7.7',
         'Sphinx==1.1.3',
         'Jinja2==2.6',
-        'Pygments==1.5',
+        'Pygments==2.7.4',
         
     ],
     packages=find_packages(exclude=["project","project.*"]),
